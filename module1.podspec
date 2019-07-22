@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 This is module1 to test integration in the main app.
                        DESC
 
-  s.homepage         = 'https://github.com/yuvrajsinh/module1'
+  s.homepage         = 'https://github.com/yuvirajsinh/module1'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Yuvrajsinh Jadeja' => 'yuviraj.jadeja@gmail.in' }
