@@ -30,7 +30,7 @@ This is module1 to test integration in the main app.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'Classes'
+  s.source_files = 'Classes/*.{swift}'
   
   # s.resource_bundles = {
   #   'module2' => ['module2/Assets/*.png']
