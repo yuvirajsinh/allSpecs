@@ -29,6 +29,7 @@ This is module1 to test integration in the main app.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
+  s.swift_versions = '4.2'
 
   s.source_files = 'Classes/**/*.{swift}'
   
